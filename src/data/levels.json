@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Food",
+    "category": "food",
+    "emoji": "🍜",
+    "color": "#FF6B6B",
+    "totalItems": 100,
+    "description": "Savor dishes from every corner of the globe."
+  },
+  {
+    "id": 2,
+    "name": "Drinks",
+    "category": "drinks",
+    "emoji": "🍹",
+    "color": "#4ECDC4",
+    "totalItems": 100,
+    "description": "Sip your way through the world's beverages."
+  },
+  {
+    "id": 3,
+    "name": "Clothes",
+    "category": "clothes",
+    "emoji": "👘",
+    "color": "#FFE66D",
+    "totalItems": 100,
+    "description": "Discover fashion across cultures and eras."
+  },
+  {
+    "id": 4,
+    "name": "Jewelry",
+    "category": "jewelry",
+    "emoji": "💍",
+    "color": "#A8E6CF",
+    "totalItems": 100,
+    "description": "Collect dazzling adornments and heirlooms."
+  },
+  {
+    "id": 5,
+    "name": "Plants",
+    "category": "plants",
+    "emoji": "🌿",
+    "color": "#88D8B0",
+    "totalItems": 100,
+    "description": "Grow a garden of green companions."
+  },
+  {
+    "id": 6,
+    "name": "Furniture",
+    "category": "furniture",
+    "emoji": "🛋️",
+    "color": "#DDA0DD",
+    "totalItems": 100,
+    "description": "Furnish your dream space piece by piece."
+  },
+  {
+    "id": 7,
+    "name": "Anime Characters",
+    "category": "anime",
+    "emoji": "🍥",
+    "color": "#FFB7B2",
+    "totalItems": 100,
+    "description": "Recruit legendary characters to your roster."
+  },
+  {
+    "id": 8,
+    "name": "Animals",
+    "category": "animals",
+    "emoji": "🐼",
+    "color": "#FF9F1C",
+    "totalItems": 100,
+    "description": "Meet remarkable creatures from every habitat."
+  }
+]
